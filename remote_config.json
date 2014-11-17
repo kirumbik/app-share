@@ -1,0 +1,15 @@
+{
+    "game_rater" : {"enabled" : true, "level" : 1, "title" : "Games 35cm", "text" : "Rate right now, bitch!"},
+
+    "ios_rater": true,
+    "ios_interstitials" : true,
+    "ios_ads_min_time" : 30, 
+    "ios_ads_min_screens" : 3, 
+    "ios_message" : {"title" : "Games 35cm", "text" : "Hi!", "act" : "Download", "act_cancel" : "Nope", "link" : "http://google.com"},
+
+    "android_rater": true,
+    "android_interstitials" : true,
+    "android_ads_min_time" : 30,
+    "android_ads_min_screens" : 3, 
+    "android_message" : {"title" : "Games 35cm", "text" : "Hi!", "act" : "Download", "act_cancel" : "Nope", "link" : "http://google.com"}
+}
