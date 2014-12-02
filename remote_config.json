@@ -1,6 +1,6 @@
 {
     "game_rater": {
-        "enabled": false,
+        "enabled": true,
         "level": 1,
         "title": "Games 35cm",
         "text": "If you enjoy playing Bounce Original, would you mind taking a moment to rate it? It won’t take more than a minute. Thanks for your support!"
