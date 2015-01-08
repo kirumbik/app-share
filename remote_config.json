@@ -6,7 +6,7 @@
         "text": "If you enjoy playing Bounce Original, would you mind taking a moment to rate it? It won’t take more than a minute. Thanks for your support!"
     },
     "ios_rater": true,
-    "ios_interstitials": false,
+    "ios_interstitials": false, 
     "ios_ads_min_time": 10,
     "ios_ads_min_screens": 2,
     "android_rater": true,
